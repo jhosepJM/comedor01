@@ -7,7 +7,8 @@
 }
 
 body {
-    background-color: #f9f9f9;
+    /* background-color: #f9f9f9; */
+    background-color: rgb(192, 228, 228);
     color: #333;
     line-height: 1.6;
 }
